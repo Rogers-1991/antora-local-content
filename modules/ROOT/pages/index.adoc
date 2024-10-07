@@ -1,0 +1,13 @@
+= Welcome to the Local Documentation
+John Doe john.doe@company.com 
+:page-layout: home
+
+Welcome to the main page of our local documentation.
+
+== Getting Started
+
+Learn more in the xref:getting-started.adoc[Getting Started] guide.
+
+== API Reference
+
+For detailed API documentation, visit the xref:api-reference.adoc[API Reference] page. 
