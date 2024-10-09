@@ -1,6 +1,6 @@
 = Welcome to the Local Documentation
 John Doe john.doe@company.com 
-:page-layout: home
+:page-layout: default
 
 Welcome to the main page of our local documentation.
 
